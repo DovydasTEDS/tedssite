@@ -1,2 +1,2 @@
 # tedssite
-teamtedps.tk
+https://teamtedps.tk/
