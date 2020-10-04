@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+/home              /
+/wii               https://wii.teamtedps.tk
+/itch              https://dovydasteds.itch.io
+/google            https://ggl.teamtedps.tk
