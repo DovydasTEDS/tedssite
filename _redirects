@@ -3,3 +3,6 @@
 /wii               https://wii.teamtedps.tk
 /itch              https://dovydasteds.itch.io
 /google            https://ggl.teamtedps.tk
+
+# Redirect default Netlify subdomain to primary domain
+https://tedssite.netlify.com/* https://teamtedps.tk/:splat 301!
